@@ -186,7 +186,7 @@ const akash: Developer = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/akashmishra1910">
+<a href="https://www.linkedin.com/in/akashmishra19/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
