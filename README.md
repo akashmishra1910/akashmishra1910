@@ -69,7 +69,11 @@ I am passionate about building scalable web applications and solving real-world 
 <a href="https://github.com/akashmishra1910/Cosmos-main">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmishra1910&repo=Cosmos-main&theme=tokyonight" />
 </a>
+## 📌 Featured Project
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmishra1910&repo=Cosmos-main&theme=tokyonight" />
+</p>
 ---
 
 ⭐ **Thanks for visiting my profile!**
