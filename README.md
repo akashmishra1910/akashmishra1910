@@ -124,16 +124,6 @@ const akash: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akashmishra1910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
