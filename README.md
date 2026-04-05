@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashmishra19/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashmishra1910)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmishra1910)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/akashmishra1910)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
@@ -144,15 +144,11 @@ const akash: Developer = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🌊 Contribution Heatmap
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashmishra1910/akashmishra1910/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashmishra1910/akashmishra1910/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashmishra1910/akashmishra1910/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/00b4d8/akashmishra1910" alt="Akash's Github chart" width="100%" />
 
 </div>
 
@@ -186,7 +182,7 @@ const akash: Developer = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akashmishra19/">
+<a href="https://linkedin.com/in/akashmishra1910">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
