@@ -1,74 +1,158 @@
-# Hi 👋 I'm Akash Mishra
+<div align="center">
 
-💻 **Full Stack Developer | Computer Science Student | Tech Enthusiast**
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Akash%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
-I am passionate about building scalable web applications and solving real-world problems using modern technologies. I enjoy learning new tools, participating in hackathons, and improving my problem-solving skills.
-
----
-
-## 🚀 About Me
-
-🔭 I’m currently working on **Full Stack Web Development Projects**
-
-🌱 I’m currently learning **Data Structures & Algorithms**
-
-👯 I’m looking to collaborate on **Open Source Projects and Hackathons**
-
-🤝 I’m looking for help with **System Design and Scalable Backend Development**
-
-💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-
-⚡ Fun fact: **I enjoy debating, creative writing, and reading books**
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,postgres,git,github,vscode" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="mailto:akashmishra1910@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Akash+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%8D;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </a>
 
-<a href="https://linkedin.com/in/akashmishra">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashmishra19)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmishra1910)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/akashmishra1910)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```typescript
+const akash = {
+  name: "Akash Mishra",
+  role: "Full Stack Developer",
+  location: "India 🇮🇳",
+  currentFocus: ["DSA", "System Design", "Open Source"],
+  passions: ["Clean Code", "Problem Solving", "Building Products"],
+  funFact: "I debug with console.log() and I'm not ashamed 😄",
+  currentlyLearning: "Advanced System Design & Cloud Architecture",
+  openToWork: true,
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashmishra1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akashmishra1910&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmishra1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akashmishra1910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashmishra1910&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+<div align="center">
+
+| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate On | 💬 Ask Me About |
+|:---:|:---:|:---:|:---:|
+| Full Stack Projects | System Design | Open Source | Web Dev & DSA |
+
+</div>
+
+---
+
+## ⚡ Fun Stats
+
+<div align="center">
+
+![Snake animation](https://github.com/akashmishra1910/akashmishra1910/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/akashmishra1910">
+  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/akashmishra1910">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=akashmishra1910&label=Profile%20Views&color=00b4d8&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashmishra1910\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akashmishra1910\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmishra1910\&layout=compact\&theme=tokyonight)
+</div>
 
 ---
 
-## 📌 Featured Project
+<div align="center">
 
-### Cosmos-main
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer"/>
 
-A development repository where I experiment with ideas, build practical implementations, and improve my programming and development skills.
+**✨ "First, solve the problem. Then, write the code." – John Johnson**
 
-🔗 **Repository:**
-https://github.com/akashmishra1910/Cosmos-main
-
----
-
-⭐ **Thanks for visiting my profile!**
+</div>
