@@ -38,7 +38,7 @@ I am passionate about building scalable web applications and solving real-world 
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/akashmishra">
+<a href="https://linkedin.com/in/akashmishra19">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -62,12 +62,12 @@ I am passionate about building scalable web applications and solving real-world 
 
 # 📌 Top Repositories
 
-<a href="https://github.com/akashmishra1910">
+<a href="https://github.com/akashmishra1910/ClassIQ">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmishra1910&repo=GroceryIt&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/akashmishra1910">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmishra1910&repo=ClassIQ&theme=tokyonight" />
+<a href="https://github.com/akashmishra1910/Cosmos-main">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmishra1910&repo=Cosmos-main&theme=tokyonight" />
 </a>
 
 ---
